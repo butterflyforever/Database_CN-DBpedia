@@ -1,4 +1,4 @@
-# Database_CN-DBpedia.git
+# Database_CN-DBpedia
 
 This is a DB course project. Parse the query and search the corresponding answer from database.
 
